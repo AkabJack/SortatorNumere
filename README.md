@@ -1,7 +1,8 @@
 
 ## Sortator Numere
 
-    Proiect pentru sortarea si afisarea unei liste de numere, scrisa in C++ si wxWidgets, proiect creat in Visual Studio Comunity 2019.
+    Proiect pentru sortarea si afisarea unei liste de numere, scrisa in C++ si wxWidgets.
+    Creat in Visual Studio Comunity 2019.
 ## Authors
 
 - [@AkabJack](https://github.com/AkabJack)
