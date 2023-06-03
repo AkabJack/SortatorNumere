@@ -10,5 +10,5 @@
 
 ## Screenshots
 
-![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/AkabJack/SortatorNumere/blob/main/screenshot.png))
+![App Screenshot](https://github.com/AkabJack/SortatorNumere/blob/main/screenshot.png)
 
